@@ -9,33 +9,7 @@
     <title>Berita</title>
 </head>
 <body>
-    <div class="header">
-        <div class="logo"><img src="logosmk.png" width="50" height="61"></div>
-        <input type="checkbox" id="menu-bar">
-        <label for="menu-bar"><i class="fas fa-bars"></i></label>
-        <div class="navbar">
-            <ul>
-                <li><a href="#">HOME</a></li>
-                <li><a href="#">PROFIL SEKOLAH <i class="fas fa-caret-down"></i></a>
-                    <ul>
-                        <li><a href="#">Sejarah sekolah</a></li>
-                        <li><a href="#">Visi & misi</a></li>
-                    </ul>
-                </li>
-                <li><a href="#">KOMPETENSI KEAHLIAN</a></li>
-                <li><a href="#">BERITA <i class="fas fa-caret-down"></i></a>
-                    <ul class="dropdown">
-                        <li><a href="#">Berita Terbaru</a></li>
-                        <li><a href="#">Info PPDB</a></li>
-                        <li><a href="#">Agenda</a></li>
-                        <li><a href="#">Gallery</a></li>
-                    </ul>
-                </li>
-                <li><a href="#">GURU</a></li>
-                <li><a href="#">KONTAK</a></li>
-            </ul> 
-        </div>
-    </div>
+    
     <div class="content">
         <div class="content-container">
             <div class="content-left">
